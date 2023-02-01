@@ -3,4 +3,4 @@ def fun_func():
     return hej
 
 def wow():
-    pass
+    print("wooooow")
