@@ -5,3 +5,4 @@ def fun_func():
 def wow():
     print("wooooow")
     print("hej då")
+    print("wow")
