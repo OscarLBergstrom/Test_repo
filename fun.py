@@ -1,5 +1,5 @@
 def fun_func():
-    print("wow")
+     print("wow")
     hej = "dig"
     return hej
 
